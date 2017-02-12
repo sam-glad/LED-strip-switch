@@ -12,4 +12,5 @@
     <access origin="*" />
     <allow-intent href="*" />
     <allow-navigation href="*" />
+    <icon src="icon.png" platform="android" width="180" height="180" />
 </widget>
